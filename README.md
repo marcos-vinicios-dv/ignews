@@ -33,6 +33,7 @@
 <b>Ferramentas Externas</b>
 - <a href="https://fauna.com/" >FaunaDB</a> (banco de dados);
 - <a href="https://stripe.com/en-br" >Stripe</a> (gerenciamento de pagamentos).
+- <a href="https://prismic.io/" >Prismic CMS</a> (administração de postagens do site).
 
 
 ## Inicializar localmente
