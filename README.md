@@ -31,8 +31,8 @@
 <br>
 
 <b>Ferramentas Externas</b>
-- href="https://fauna.com/" >FaunaDB</a> (banco de dados);
-- href="https://stripe.com/en-br" >Stripe</a> (gerenciamento de pagamentos).
+- <href="https://fauna.com/" >FaunaDB</a> (banco de dados);
+- <href="https://stripe.com/en-br" >Stripe</a> (gerenciamento de pagamentos).
 
 
 ## Link para o Projeto
