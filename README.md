@@ -1,4 +1,4 @@
-## ignews
+## ig.news
 
 <p>Esse projeto foi desenvolvido no curso Ignite e se trata de uma plataforma de conteúdo em texto(um blog) pago, então para consumir os posts da página o usuário deve estar logado e ser um assinante.</p>
 <p>Para o sistema de pagamentos e gerenciamento das assinaturas foi utilizado a plataforma do Stripe e para administrar as postagens foi utilizado o Prismic CMS.</p>
