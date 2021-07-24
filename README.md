@@ -36,4 +36,4 @@
 
 
 ## Inicializar localmente
-Este é um projeto que envolve muitas informações e configurações pessoais em diferentes plataformas, então você pode fazer o download dele porém algumas funcionalidades da aplicação serão prejudicadas e terão um mau funcionamento.
+Este é um projeto que envolve muitas informações e configurações pessoais em diferentes plataformas(Stripe e FaunaDB), então você pode fazer o download dele porém algumas funcionalidades da aplicação serão prejudicadas e terão um mau funcionamento. Foi postado apenas para expor um pouco do aprendizado que adiquiri no curso ignite da Rocketseat.
